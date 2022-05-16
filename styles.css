@@ -1,0 +1,38 @@
+.rainbow-text {
+  background-image: linear-gradient(to left, violet, blue, yellow, red);   -webkit-background-clip: text;
+  color: transparent;
+  font-size: 40px;
+  margin: auto;
+  width: auto;
+}
+
+.bio {
+  color: black;
+  font-size: 20px;
+  margin: auto;
+  width: auto;
+  text-align: center;
+
+}
+
+
+.pets {
+  color: aqua;
+  font-size: 60px;
+  margin: auto;
+  width: auto;
+  text-align: center;
+}
+
+.sports {
+  color: red;
+  font-size: 60px;
+  margin: auto;
+  width: auto;
+  text-align: center;
+}
+
+.underline: hover
+{
+    text-decoration: underline;
+}
